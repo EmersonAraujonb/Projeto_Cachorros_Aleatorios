@@ -7,7 +7,7 @@
         Atualizar página para ver outro cachorro!
       </button>
     </div>
-    <p style="color: red" class="imgDog"></p>
+    <p class="imgDog"></p>
   </div>
 </template>
 
