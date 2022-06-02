@@ -56,7 +56,7 @@ export default {
 .title {
   font-size: 30pt;
   color: black;
-  text-shadow: 10px 10px 6.5px #ff0000;
+  text-shadow: 10px 10px 6.5px rgb(59, 59, 59);
 }
 .container {
   font-family: ubuntu mono, monospace;
@@ -71,6 +71,7 @@ export default {
   display: inline-block;
   border: none;
   margin: 30px;
+  box-shadow: 5px 7px 3px 0 #00000080;
 }
 #botao2 {
   background-color: rgb(0, 191, 255);
@@ -80,6 +81,7 @@ export default {
   border: none;
   margin: 30px;
   left: 300px;
+  box-shadow: 5px 7px 3px 0 #00000080;
 }
 #botao:hover {
   background-color: rgb(0, 255, 0);
