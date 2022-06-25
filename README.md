@@ -1,7 +1,7 @@
 # Projeto Cachorros Aleatorios
 
 ## Project description
-<p align="center"></p>
+<p align="center">The project's main purpose is to generate an image of a random dog with each click on the search key.</p>
 
 <h1 align="center">
     <a href="https://vuejs.org">🔗 Vuejs</a>
