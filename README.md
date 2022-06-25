@@ -13,10 +13,8 @@ Table of contents
 =================
 <p align="center">
  <a href="#project-description">Description</a> •
- <a href="#license">License</a> • 
  <a href="#features">Features</a> • 
  <a href="#prerequisites">Prerequisites</a> • 
- <a href="#license">License</a> • 
  <a href="#author">Author</a>
 </p>
 
